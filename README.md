@@ -1,5 +1,5 @@
 Olá!
-Esse projeto foi feito para desenolvimento pessoal.
+Esse projeto foi feito para desenvolvimento pessoal.
 
 Você pode usá-lo para automtizar algum processo. Podendo apenas colocar os CEPs que deseja pesquisar e deixar o programar rodar e trazer todos os dados que você precisa.
 Neste programa, ele traz os dados básico que precisamos, são eles: Endereço, número, bairro e cidade.
